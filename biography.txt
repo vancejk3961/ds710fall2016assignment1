@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. What is your name? James K. Vance. My friends call me Jimmy.
+2. Why are you interested in Data Science? I am a curious individual when it comes to the qualitative. I am a researcher by trade and the field of data science is the up and coming field that everyone will need to understand in order to be ahead of the competition.
+3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how? I have taken two computer science in my undergrad but have also spent a great deal of time on sites such as Code School and codecademy.com. Last summer I interned as a researcher in the Computer Science Department at North Carolina State in Raleigh, NC.
+4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how? I have taken an Introductory Statistics course as well as a Psych Research Methods course. I am familiar with statistics programs such as SPSS, R and Microsoft Excel. I have acquired the MOS Excel Specialist certification.
+5.  Do you have other experience with R or Python? I have used R to generate statistics for a recent capstone research project but have very little interaction with Python.
+6.  What do you hope to learn in this class? Gained a greater understanding on how to analyze data and hone my programming skills
+7.  Is there anything else you would like to share with us? I was currently just hired as an IRB Coordinator at the Medical College of Wisconsin in Milwaukee, Wisconsin. I hope to use my Data Science expertise gained from this program to help guide the biomedical field in how to properly use Data Science to gain greater insight and understanding that can help to benefit society.
